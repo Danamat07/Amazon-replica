@@ -3,7 +3,7 @@
 A simple e-commerce website clone built using HTML, CSS, and JavaScript. This project replicates the basic functionality of an online shopping platform, allowing users to browse products, add items to their cart, and view the total amount to pay.
 
 ## Preview:
-Project Link: https://danamat07.github.io/Amazon-replica/checkout.html
+Project Link: https://danamat07.github.io/Amazon-replica/amazon.html
 
 ## Technologies Used
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
