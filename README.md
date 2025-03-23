@@ -24,4 +24,7 @@ Clone the repository:
 git clone https://github.com/your-username/amazon-replica.git
 ```
 ---
-*More features coming soon!*
+
+<div align="center">
+  <em>More features coming soon!</em>
+</div>
