@@ -1,6 +1,6 @@
 # Amazon-replica
 
-A simple e-commerce website clone built using HTML, CSS, and JavaScript. This project replicates the basic functionality of an online shopping platform, allowing users to browse products, add items to their cart, and view the total amount to pay.
+An e-commerce website clone built using HTML, CSS, and JavaScript. This project replicates the basic functionality of an online shopping platform, allowing users to browse products, add items to their cart, and view the total amount to pay.
 
 ---
 
@@ -17,14 +17,3 @@ A simple e-commerce website clone built using HTML, CSS, and JavaScript. This pr
   - **CSS:** Styling the layout and design
   - **JavaScript:** Functionality for interactivity
   - **VSCode:** Integrated Development Environment (IDE) used for coding and development
-
-## Installation
-Clone the repository:
-```yaml
-git clone https://github.com/your-username/amazon-replica.git
-```
----
-
-<div align="center">
-  <em>More features coming soon!</em>
-</div>
